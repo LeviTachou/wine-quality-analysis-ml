@@ -1,5 +1,3 @@
-# wine-quality-analysis-ml
-
 # Wine Quality Prediction  
 
 ## 📌 Project Overview  
